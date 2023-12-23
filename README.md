@@ -13,7 +13,7 @@ This Python program allows you to encrypt and decrypt messages using the Caesar 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd caesar-cipher
+    cd caesar_cipher
     ```
 
 3. **Run the program:**
@@ -48,6 +48,7 @@ Type 'encode' to encrypt, type 'decode' to decrypt: encode
 Type your message: hello
 Type the shift number: 3
 The encoded message is: khoor
+```
 
 Note
 The program only supports lowercase letters. Other characters (numbers, punctuation, etc.) remain unchanged.
@@ -55,3 +56,4 @@ Shift numbers greater than 26 are equivalent to the remainder when divided by 26
 Feel free to customize and enhance the program according to your needs.
 
 Thank you for using our program! Kibshh
+
